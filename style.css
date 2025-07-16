@@ -1,0 +1,17 @@
+h1{
+    background-color: blue;
+    color: white;
+}
+h2{
+    padding:20px;
+    color:white;
+}
+body{
+    margin:0;
+    padding:0px;
+    background-image: url(https://img.freepik.com/premium-photo/speaker-performing-stage-with-spotlight-talking-audience_965238-2983.jpg);
+    background-size: cover;
+}
+p{
+    color:white;
+}
